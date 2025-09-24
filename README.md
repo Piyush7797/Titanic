@@ -13,9 +13,13 @@ The project uses the classic Titanic dataset to train a predictive model. The ma
 ## Repository Structure
 
 ├── Data/ # Folder containing datasets
+
 ├── Main.ipynb # Jupyter notebook for exploration and model building
+
 ├── Main.py # Python script for model training and prediction
+
 ├── TitanicModel.pkl # Trained machine learning model
+
 ├── requirements.txt # Python dependencies
 
 
